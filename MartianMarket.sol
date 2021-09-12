@@ -2,7 +2,7 @@
 		 
 		import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC721/ERC721Full.sol";
 		import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/ownership/Ownable.sol";
-		import "./22.3_02MartianAuction.sol";
+		import "./MartianAuction.sol";
 		 
 		contract MartianMarket is ERC721Full, Ownable {
 		 
