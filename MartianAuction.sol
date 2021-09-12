@@ -111,3 +111,4 @@ contract MartianAuction {
         beneficiary.transfer(highestBid);
     }
 }
+
